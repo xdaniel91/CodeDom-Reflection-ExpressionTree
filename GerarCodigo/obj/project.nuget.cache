@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Tmk46HtQ97DV+svN49bmt/bO6DqzqTo6k0o7NCAfjJKmtUt28cn2QbZP6ssTeFCr6Qk4IR3wXX2wSIZ4VNIuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielRodriguesCarva\\source\\repos\\csharppt10\\GerarCodigo\\GerarCodigo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielRodriguesCarva\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

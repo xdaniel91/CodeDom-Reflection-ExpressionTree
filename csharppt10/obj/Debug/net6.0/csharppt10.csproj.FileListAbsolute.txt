@@ -1,0 +1,17 @@
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\csharppt10.exe
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\csharppt10.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\csharppt10.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\csharppt10.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\ref\csharppt10.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\csharppt10.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.csproj.CopyComplete
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\ref\csharppt10.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\csharppt10\obj\Debug\net6.0\csharppt10.genruntimeconfig.cache

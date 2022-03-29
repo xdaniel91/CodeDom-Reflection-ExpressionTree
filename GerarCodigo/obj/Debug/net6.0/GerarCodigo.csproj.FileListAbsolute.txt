@@ -1,0 +1,17 @@
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\GerarCodigo.exe
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\GerarCodigo.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\GerarCodigo.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\GerarCodigo.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\ref\GerarCodigo.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\GerarCodigo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.csproj.CopyComplete
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\ref\GerarCodigo.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\GerarCodigo\obj\Debug\net6.0\GerarCodigo.genruntimeconfig.cache

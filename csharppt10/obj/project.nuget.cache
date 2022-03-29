@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CHQC69ATnqWbVhYsg7Q1JBIDJeY0Gl/nkIQP2fpGyip+9vIlaUwfbZMV3yhtNQrbQ0a82S5t1tlPH1ukwLK+OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielRodriguesCarva\\source\\repos\\csharppt10\\csharppt10\\Reflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielRodriguesCarva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
