@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c963412a-22f8-48e1-a359-977ff5df43f6": {
+      "ProjectGuid": "c963412a-22f8-48e1-a359-977ff5df43f6",
+      "DisplayName": "Reflection",
+      "ColorIndex": 0
+    },
+    "c749903c-af9e-49e2-9146-aba6ff2f3768": {
+      "ProjectGuid": "c749903c-af9e-49e2-9146-aba6ff2f3768",
+      "DisplayName": "GerarCodigo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "a11ba63e-d0b9-4109-829b-00c36494452c": {
+      "ProjectGuid": "a11ba63e-d0b9-4109-829b-00c36494452c",
+      "DisplayName": "ArvoresExpressoes",
+      "ColorIndex": 2
+    },
+    "a2014837-bafe-4dec-a8a5-cab07b80a806": {
+      "ProjectGuid": "a2014837-bafe-4dec-a8a5-cab07b80a806",
+      "DisplayName": "TiposReflection",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

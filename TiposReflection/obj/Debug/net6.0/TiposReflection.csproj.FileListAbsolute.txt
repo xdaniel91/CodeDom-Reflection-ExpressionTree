@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\TiposReflection.exe
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\TiposReflection.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\TiposReflection.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\TiposReflection.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\ref\TiposReflection.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\bin\Debug\net6.0\TiposReflection.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\ref\TiposReflection.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\TiposReflection\obj\Debug\net6.0\TiposReflection.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ArvoresExpressoes.exe
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ArvoresExpressoes.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ArvoresExpressoes.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ArvoresExpressoes.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ref\ArvoresExpressoes.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\bin\Debug\net6.0\ArvoresExpressoes.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ref\ArvoresExpressoes.dll
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.pdb
+C:\Users\DanielRodriguesCarva\source\repos\csharppt10\ArvoresExpressoes\obj\Debug\net6.0\ArvoresExpressoes.genruntimeconfig.cache
